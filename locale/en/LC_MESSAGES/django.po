@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DPF 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-26 18:56+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Yhj <yhjyhjlqx@zohomail.cn>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=(n != 1);\n"
+
+#: .\DPF_Backend\settings.py:137
+msgid "English"
+msgstr "English"
+
+#: .\DPF_Backend\settings.py:138
+msgid "Simplified Chinese"
+msgstr "Simplified Chinese"
+
+#: .\app\forms.py:5
+msgid "用户名"
+msgstr "User Name"
+
+#: .\app\forms.py:6
+msgid "邮箱"
+msgstr "EMail"
+
+#: .\app\forms.py:7
+msgid "密码"
+msgstr "Password"
+
+#: .\app\views.py:11
+msgid "首页"
+msgstr "Index"
+
+#: .\app\views.py:12
+msgid "您好，欢迎来到我的网站"
+msgstr "Hello, Welcome to my website"
